@@ -45,4 +45,3 @@
 ```bash
 git clone https://github.com/yourusername/proxy-scraper.git
 cd proxy-scraper
-pip install -r requirements.txt
