@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="assets/image1.png" width="45%">
-  <img src="assets/image2.jpg" width="45%">
+  <img src="assets/image2.jpg" width="70%">
 </p>
 
 > 📌 Letakkan gambar di folder `assets/` agar struktur tetap rapi.
