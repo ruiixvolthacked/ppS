@@ -15,7 +15,9 @@
 ## 🖼 Preview
 
 <p align="center">
-  <img src="assets/image1.jpg" width="45%">
+  <img src="assets/image1.jpg" width="70%">
+
+  
   <img src="assets/image2.jpg" width="70%">
 </p>
 
