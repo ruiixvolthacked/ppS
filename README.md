@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Proxy Scraper CLI</h1>
+<h1 align="center">⚡ Proxy HTTP Scraper </h1>
 
 <p align="center">
   High-performance HTTP proxy scraper built with Python.
@@ -19,8 +19,6 @@
   <img src="assets/image2.jpg" width="70%">
 </p>
 
-> 📌 Letakkan gambar di folder `assets/` agar struktur tetap rapi.
-
 ---
 
 ## 🚀 Features
@@ -31,6 +29,12 @@
 - 📁 Custom output filename  
 - 📂 Custom output directory  
 - 🧠 Smart path resolver (`$HOME`, `~`, etc.)
+
+---
+
+## 🌐 Records
+ - 📑 Average total proxy 3000
+ - ✅ Average proxy success 400
 
 ---
 
