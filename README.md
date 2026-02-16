@@ -45,3 +45,5 @@
 ```bash
 https://github.com/ruiixvolthacked/ppS.git
 cd ppS
+python proxy.py <namefile.txt> <path>
+  CONTOH python proxy.py proxy.txt /sdcard/download
