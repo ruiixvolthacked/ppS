@@ -44,4 +44,4 @@
 
 ```bash
 https://github.com/ruiixvolthacked/ppS.git
-cd proxy-scraper
+cd ppS
