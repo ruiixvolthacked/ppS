@@ -43,5 +43,5 @@
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/yourusername/proxy-scraper.git
+https://github.com/ruiixvolthacked/ppS.git
 cd proxy-scraper
